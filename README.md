@@ -1,3 +1,1 @@
 # Notey
-# Notey-Appy
-# Notey
