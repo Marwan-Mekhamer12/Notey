@@ -1,0 +1,6 @@
+framework module Pods_Notey {
+  umbrella header "Pods-Notey-umbrella.h"
+
+  export *
+  module * { export * }
+}
